@@ -7,7 +7,7 @@ These are projects which have high potential to make it easier to build other pr
 *   #TemplateApp - An published intended as a generic starting point for a more detailed app
 *   #API - An already-hosted and accessible API
 *   #Website - An already-hosted and accessible website
-*   #[P](/ep/search/?q=%23Library&via=gWS3kxVR9k8)ackage - A reusable package of code
+*   #Package - A reusable package of code
 
 ## The List
 
