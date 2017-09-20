@@ -1,4 +1,16 @@
 # Resources
-
+- Projects Blueprint
+  - Why does the Code for Philly Project Blueprint exist?
+    - The vast majority of the Code for Philly community has little to no experience volunteering on a project. 
+     - Many community members have limited experience working in a professional software delivery environment - let alone contributing to open source 
+    - New volunteers are actively looking for guidance on how to get started and how to contribute. 
+  - What does the Blueprint answer? 
+    - What is Code for Philly project and what do they look like?
+    - How can I become involved in an existing project?
+    - How can I lead my own project?
+  - Who are we designing for?
+    - our first-time volunteers; either contributing to or leading a Code for Philly project. 
+  - When should it be used?
+    - When community members are serious about getting involved in their first project. 
 - [Project Ingredients](INGREDIENTS.md)
 - [Learning Resources](LEARNING.md)
