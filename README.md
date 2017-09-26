@@ -1,7 +1,7 @@
 # Welcome to Code for Philly!
 Here you'll find resources to support your civic hacking efforts. We're actively growing and improving this repository. Want to help or have a suggestion? Please share by opening an issue!
 
-## Resources
+## Code for Philly Developed Resources
 - [Projects 101 Blueprint - Link to Google Slides](https://docs.google.com/a/codeforphilly.org/presentation/d/1d7zazkSMwshShctmlLavJHFl9EQVUxavuwTaaudGEZ8/edit?usp=sharing)
   - Why does the Code for Philly Project Blueprint exist?
     - The vast majority of the Code for Philly community has little to no experience volunteering on a project. 
