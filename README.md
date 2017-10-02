@@ -18,6 +18,9 @@ Here you'll find resources to support your civic hacking efforts. We're actively
 - [Project Ingredients](INGREDIENTS.md)
 - [Learning Resources](LEARNING.md)
 
+## Have a new project idea? Want to view and comment on existing ideas?
+- [Head over to our project idea repo!](https://github.com/CodeForPhilly/project-ideas) 
+
 ## Ondeck for publishing...
-- A sample, "best practice" Github Code for Philly project repository to illustrate the qualities of open source civic tech projects. \
+- A sample, "best practice" Github Code for Philly project repository to illustrate the qualities of open source civic tech projects. 
 - Volunteer Readiness and Volunteer Match Making Guides
