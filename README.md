@@ -4,15 +4,14 @@ Here you'll find resources to support your civic hacking efforts. We're actively
 ## Code for Philly Developed Resources
 - [Projects 101 Blueprint - Link to Google Slides](https://docs.google.com/a/codeforphilly.org/presentation/d/1d7zazkSMwshShctmlLavJHFl9EQVUxavuwTaaudGEZ8/edit?usp=sharing)
   - Why does the Code for Philly Project Blueprint exist?
-    - The vast majority of the Code for Philly community has little to no experience volunteering on a project. 
-     - Many community members have limited experience working in a professional software delivery environment - let alone contributing to open source 
-    - New volunteers are actively looking for guidance on how to get started and how to contribute. 
+     - New Code for Philly community has little to no experience volunteering on an open source civic tech project 
+     - New volunteers are actively looking for guidance on how to get started and how to contribute. 
   - What does the Blueprint answer? 
-    - What is Code for Philly project and what do they look like?
+    - What are Code for Philly projects and what do they look like?
     - How can I become involved in an existing project?
     - How can I lead my own project?
   - Who are we designing for?
-    - our first-time volunteers; either contributing to or leading a Code for Philly project. 
+    - Our first-time volunteers; either contributing to or leading a Code for Philly project. 
   - When should it be used?
     - When community members are serious about getting involved in their first project. 
 - [Project Ingredients](INGREDIENTS.md)
