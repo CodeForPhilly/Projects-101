@@ -5,6 +5,7 @@
 * [Maintaining Open Source Software Projects](https://www.digitalocean.com/community/tutorials/maintaining-open-source-software-projects) by Digital Ocean
 * [Choosing an open source software license](https://choosealicense.com/) 
 * [Being an amazing contributor to open source projects](https://opensource.com/life/11/3/how-become-amazing-contributor-open-source-project)
+* [US Digital Service's Digital Services Playbook](https://playbook.cio.gov/) 
 
 ## Introductions to Programming
 
