@@ -1,5 +1,11 @@
 *   Code for Philly - Learning Resources
 
+## Open Source Project Contributions and Management
+
+* [Maintaining Open Source Software Projects](https://www.digitalocean.com/community/tutorials/maintaining-open-source-software-projects) by Digital Ocean
+* [Choosing an open source software license](https://choosealicense.com/) 
+* [Being an amazing contributor to open source projects](https://opensource.com/life/11/3/how-become-amazing-contributor-open-source-project)
+
 ## Introductions to Programming
 
 *   [Processing Hour of Code](http://hello.processing.org/) - Interactive introduction to programming through graphics
@@ -21,6 +27,7 @@
 *   [Code School - Try Git](https://try.github.io/) - Interactive introduction to git command line
 *   [Think Like (a) Git](http://think-like-a-git.net/) - Excellent resource for those looking to learn more about Git
 *   [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/) - A Searchable Collection of the Most Frequently Asked Git Questions
+* [Contributing to Open Source: Getting Started with Git](https://www.digitalocean.com/community/tutorials/contributing-to-open-source-getting-started-with-git) by DigitalOcean
 
 ## APIs
 
