@@ -1,4 +1,4 @@
-*   Code for Philly - Learning Resources
+#Code for Philly - Learning Resources
 
 ## Open Source Project Contributions and Management
 
