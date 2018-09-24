@@ -1,5 +1,7 @@
 # Code for Philly - Learning Resources
 
+> # DEPRECATED: This content has been transferred to this [wiki post](http://forum.codeforphilly.org/t/learning-resources-wiki-post/594)
+
 ## Open Source Project Contributions and Management
 
 * [Maintaining Open Source Software Projects](https://www.digitalocean.com/community/tutorials/maintaining-open-source-software-projects) by Digital Ocean
